@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+    <string name="rationale_location">This app needs access to your location to know where you are</string>
+</resources>
